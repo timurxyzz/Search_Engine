@@ -1,0 +1,4 @@
+flask
+whoosh
+beautifulsoup4
+requests
